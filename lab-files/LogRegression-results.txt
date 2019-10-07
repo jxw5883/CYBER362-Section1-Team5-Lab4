@@ -1,0 +1,15 @@
+[[39906   211]
+ [ 1687 18532]]
+Classification accuracy 96.9%
+Precision: 0.9887424638531719
+Recall: 0.9165636282704387
+0.9512858682819159
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.98     40117
+           1       0.99      0.92      0.95     20219
+
+    accuracy                           0.97     60336
+   macro avg       0.97      0.96      0.96     60336
+weighted avg       0.97      0.97      0.97     60336
+

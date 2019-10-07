@@ -18,7 +18,7 @@ from sklearn.metrics import classification_report
 os.getcwd()
 DATA_DIR = 'Data/trec07p/data/'
 LABELS_FILE = 'Data/trec07p/full/index'
-TESTING_SET_RATIO = 0.3
+TESTING_SET_RATIO = 0.2
 
 labels = {}
 # Read the labels
