@@ -5,4 +5,3 @@
 - Step 3: Justin Wu
 - Step 4: Jake T and Tyler
 - Step 5: Dan and Jake 
-- 
