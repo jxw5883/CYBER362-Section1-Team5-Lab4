@@ -57,3 +57,6 @@ Y_predict = svclassifier.predict(X_test_vector)
 
 print(confusion_matrix(y_test, Y_predict))  
 print(classification_report(y_test, Y_predict))
+print("Precision:", precision_score(y_test, Y_predict))
+print("Recall:", recall_score(y_test, Y_predict))
+print(f1_score(y_test, Y_predict))
