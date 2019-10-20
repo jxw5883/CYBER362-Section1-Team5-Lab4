@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 20 10:51:44 2019
 
-@author: jdk450
+@author: jrt5464
 """
 
 import os
